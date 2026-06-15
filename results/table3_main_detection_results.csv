@@ -1,0 +1,6 @@
+method,precision_mean,precision_std,recall_mean,recall_std,map50_mean,map50_std,map5095_mean,map5095_std
+Original,0.7156,0.0909,0.6305,0.0535,0.7400,0.0132,0.3994,0.0187
+Traditional-target-only,0.7524,0.1669,0.7042,0.0606,0.7428,0.0731,0.4388,0.0540
+Traditional-all,0.8425,0.0835,0.7248,0.0629,0.7862,0.0343,0.4495,0.0363
+FLUX+LoRA auto-screened,0.8505,0.0674,0.8185,0.0445,0.8582,0.0328,0.5115,0.0164
+

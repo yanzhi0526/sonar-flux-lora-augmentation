@@ -1,0 +1,23 @@
+{
+  "description": "Prompt templates follow category semantics + sonar imaging structure + style trigger words.",
+  "class_order": {
+    "0": "body",
+    "1": "plane",
+    "2": "ship"
+  },
+  "templates": [
+    {
+      "class": "ship",
+      "prompt": "side-scan sonar image of a shipwreck with bright highlight and dark acoustic shadow on seafloor background"
+    },
+    {
+      "class": "plane",
+      "prompt": "side-scan sonar image of an aircraft wreckage with clear target highlight and acoustic shadow"
+    },
+    {
+      "class": "body",
+      "prompt": "side-scan sonar image of a human-shaped target on seafloor background"
+    }
+  ]
+}
+

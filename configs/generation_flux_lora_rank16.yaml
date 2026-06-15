@@ -1,0 +1,16 @@
+# Prompt/configuration template for FLUX+LoRA rank-16 generation.
+# Model weights and LoRA checkpoints are not included in this repository.
+model_family: FLUX
+lora_rank: 16
+class_order:
+  0: body
+  1: plane
+  2: ship
+prompt_design:
+  principle: category semantics + sonar imaging structure + style trigger words
+  sonar_terms:
+    - side-scan sonar image
+    - bright target highlight
+    - dark acoustic shadow
+    - seafloor background
+

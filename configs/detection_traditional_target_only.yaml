@@ -1,0 +1,10 @@
+# Template only. Real validation/test images from the manuscript are not redistributed.
+path: /path/to/traditional_target_only_dataset
+train: /path/to/train/images
+val: /path/to/real_val/images
+test: /path/to/real_test/images
+names:
+  0: body
+  1: plane
+  2: ship
+

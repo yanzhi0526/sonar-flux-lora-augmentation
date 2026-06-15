@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this repository or the associated dataset, please cite the paper and dataset."
+title: "Diffusion-Model-Based Data Augmentation for Target Detection in Side-Scan Sonar Images"
+authors:
+  - family-names: Yang
+    given-names: Yuanxu
+  - family-names: Zhang
+    given-names: Tao
+repository-code: "https://github.com/YOUR_GITHUB_USERNAME/sonar-flux-lora-augmentation"
+url: "https://www.kaggle.com/datasets/yangyuanxu/sonar-flux-synthetic"
+version: "v1.0.0"
+date-released: "2026-06-15"
+doi: "10.0000/placeholder-doi"
+

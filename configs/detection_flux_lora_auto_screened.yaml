@@ -1,0 +1,11 @@
+# Template for the FLUX+LoRA auto-screened synthetic subset.
+# Download synthetic images from Kaggle. Real validation/test images are not redistributed.
+path: /path/to/dataset
+train: flux_lora_16_auto_screened/images
+val: /path/to/real_val/images
+test: /path/to/real_test/images
+names:
+  0: body
+  1: plane
+  2: ship
+
